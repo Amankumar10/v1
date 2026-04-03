@@ -1,0 +1,1000 @@
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hi there!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hi there!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Wanna go out?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hi there!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hello!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Not much\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hi there!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hello!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: I'm bored", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hi there!\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Any plans?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: I feel tired", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: I'm bored", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Feeling stressed", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Not much\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: All good here\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hello!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: What's up?\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: I'm hungry", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hello!\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Feeling stressed", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: I feel tired", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: All good here\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Feeling stressed", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: What's up?\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: What's up?\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: Feeling stressed", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I feel tired", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hi there!\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I have a lot of work", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Not much\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Wanna go out?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hi there!\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: What's up?\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Doing good\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm bored", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Any plans?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Just chilling\nUser: Feeling stressed", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: All good here\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: I'm bored", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hey!\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: Feeling stressed", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hey!\nUser: I have a lot of work", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: Thinking to watch a movie", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: All good here\nUser: I have a lot of work", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Not much\nUser: I have a lot of work", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hey!\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Doing good\nUser: I'm bored", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Just chilling\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hey!\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: All good here\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Wanna go out?", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: I'm hungry", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Hey!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Wanna go out?", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Hello!\nUser: I have a lot of work", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: All good here\nUser: I'm hungry", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: I feel tired", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Hi there!\nUser: I feel tired", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: I'm hungry", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: What's up?\nUser: Any plans?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Doing good\nUser: Let's do something", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hi there!\nUser: I feel tired", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Wanna go out?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Just chilling\nUser: I'm hungry", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: All good here\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Let's do something", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Just chilling\nUser: I'm bored", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Doing good\nUser: Any plans?", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Hello!\nUser: Let's do something", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: I feel tired", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: What's up?\nUser: Any plans?", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: Just chilling\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: I'm hungry", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hello!\nUser: Let's do something", "output": "What time?\nWhere should we go?\nAny ideas?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: What's up?\nUser: I have a lot of work", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: I have a lot of work", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Not much\nUser: Thinking to watch a movie", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Hi there!\nUser: Let's do something", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What's up?\nAssistant: Not much\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Hey!\nUser: Let's do something", "output": "Same here\nYeah it's boring\nWe should do something"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Doing good\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Are you free?\nAssistant: Hey!\nUser: Any plans?", "output": "Maybe watch something\nLet's go out\nWant to chill?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: Just chilling\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Just chilling\nUser: I'm bored", "output": "Sounds good!\nI'm in!\nLet's do it!"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: How are you?\nAssistant: Hello!\nUser: I'm hungry", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Yo\nAssistant: What's up?\nUser: Feeling stressed", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hey\nAssistant: Not much\nUser: Wanna go out?", "output": "Order something\nLet's grab food\nCook something?"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hello\nAssistant: Doing good\nUser: Thinking to watch a movie", "output": "Don't worry\nYou'll be fine\nIt happens"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: Hi\nAssistant: Not much\nUser: Any plans?", "output": "Take some rest\nYou should relax\nSounds like a long day"}
+{"instruction": "Generate 3 smart reply suggestions.", "input": "User: What are you doing?\nAssistant: All good here\nUser: Let's do something", "output": "Order something\nLet's grab food\nCook something?"}
