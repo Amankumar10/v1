@@ -10515,6 +10515,2528 @@
 {"instruction":"Generate 3 smart reply suggestions.","input":"User: I passed!\nAssistant: Congrats\nUser: Happy","output":"1. Enjoy it\n2. Celebrate\n3. Well done"},
 {"instruction":"Generate 3 smart reply suggestions.","input":"User: Are you okay?\nAssistant: Yes\nUser: Sure?","output":"1. Yeah really\n2. I'm fine\n3. Don't worry"},
 {"instruction":"Generate 3 smart reply suggestions.","input":"User: Need break\nAssistant: Take one\nUser: Can't","output":"1. Just 5 mins\n2. Try later\n3. Push through"},
-{"instruction":"Generate 3 smart reply suggestions.","input":"User: Let's travel\nAssistant: Sounds good\nUser: Where?","output":"1. Goa maybe\n2. Hill station\n3. Anywhere fun"}
+{"instruction":"Generate 3 smart reply suggestions.","input":"User: Let's travel\nAssistant: Sounds good\nUser: Where?","output":"1. Goa maybe\n2. Hill station\n3. Anywhere fun"},
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hello!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hello!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hi!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi dear\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yo\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hello!\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hey!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Yeah\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yeah\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hello!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hello!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: I'm here\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: Hey!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Hi!\nUser: What are you doing?",
+    "output": "1. Just chilling\n2. Working a bit\n3. Nothing much"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Hey!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hi!\nUser: Missed you",
+    "output": "1. Missed you too\n2. Aww same here\n3. Yeah long time"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hi!\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hi!\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hey!\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey\nAssistant: Hi!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yeah\nUser: Let's go out",
+    "output": "1. Sounds good\n2. Maybe later\n3. Where to?"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hey bro\nAssistant: I'm here\nUser: Can we talk?",
+    "output": "1. Sure\n2. Yeah tell me\n3. One sec"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: What's up?\nAssistant: Hello!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Yeah\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: I'm here\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: You there?\nAssistant: Yeah\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: Hi!\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hello\nAssistant: Hey!\nUser: Why didn\u2019t you reply?",
+    "output": "1. Was busy\n2. Sorry missed it\n3. Just saw it"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Where are you?",
+    "output": "1. At home\n2. Outside\n3. On the way"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Are you coming?",
+    "output": "1. On the way\n2. Almost there\n3. Running late"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: Yo\nUser: Did you eat?",
+    "output": "1. Yeah just ate\n2. Not yet\n3. Will eat soon"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good evening\nAssistant: I'm here\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Hi\nAssistant: I'm here\nUser: Call me",
+    "output": "1. Calling now\n2. Give me 5 mins\n3. Will call you"
+  },
+  {
+    "instruction": "Generate 3 smart reply suggestions.",
+    "input": "User: Good morning\nAssistant: Hey!\nUser: Are you free?",
+    "output": "1. Yeah I'm free\n2. A bit busy\n3. Free later"
+  }
 ]
+
+
+
+
+
+
+
