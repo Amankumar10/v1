@@ -10,7 +10,12 @@
 *.userosscache
 *.sln.docstates
 *.env
+venv/
+.venv/
+env/
 env
+venv
+V1final_production_model
 TinyLlama v1.1
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
